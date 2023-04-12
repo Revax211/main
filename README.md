@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a 30 yo guy from your favorite country
 - 👀 I’m interested in the spreading of serenity, love and peace on our lovely, beautiful planet. But jerks disagree... Is that too much? 
-- 🌱 I’m currently learning python, sql and to be a good guy. 
+- 🌱 Native python speaker, learning foreign SQL as well 
 - 💞️ I’m looking to collaborate on educational stuff 
 - 📫 How to reach me https://t.me/vibro211 
 
